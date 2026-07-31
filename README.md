@@ -1,6 +1,16 @@
 # NZ Policy Analysis
 
+**Author:** Zephr Brennan  
+**Location:** Auckland, New Zealand  
+**Contact:** [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
+
+---
+
 Data-driven analysis of New Zealand government policy. No party lines — just numbers, context, and honest questions.
+
+I'm not a policy expert. I'm a citizen who thinks numbers should matter more than spin.
+
+---
 
 ## What's Inside
 
@@ -17,6 +27,8 @@ Data-driven analysis of New Zealand government policy. No party lines — just n
 |------------|-------------|
 | 📊 **Government Spending & Debt** | Core Crown revenue vs expenses, net debt trajectory, per-capita spending comparisons, programme effectiveness audits |
 
+---
+
 ## Methodology
 
 Every analysis includes:
@@ -27,9 +39,13 @@ Every analysis includes:
 
 I don't care which party is in power. I care whether their numbers add up.
 
+---
+
 ## Sources
 
 Primary data from Stats NZ, Treasury, Reserve Bank of NZ, and MBIE. All linked inline within each analysis.
+
+---
 
 ## License
 
