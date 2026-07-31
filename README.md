@@ -2,25 +2,20 @@
 
 Data-driven analysis of New Zealand government policy. No party lines — just numbers, context, and honest questions.
 
-## Focus Areas
+## What's Inside
 
-### 🏠 Housing Crisis
-- Homeownership rates by age group (2008-2026)
-- House price-to-income ratios across major cities
-- Social housing waiting lists and emergency housing costs
-- Government policy impacts: Brightline test, foreign buyer bans, KiwiBuild
+### ✅ Currently Available
 
-### 💰 Cost of Living
-- Inflation breakdown: food, housing, transport, energy
-- Real wage growth vs CPI
-- Interest rate impacts on mortgage holders
-- Rental affordability by region
+| Focus Area | Description | Link |
+|------------|-------------|------|
+| 🏠 **Housing Crisis** | Homeownership rates, house price-to-income ratios, social housing waiting lists, government policy impacts | [housing-crisis-data.md](housing/housing-crisis-data.md) |
+| 💰 **Cost of Living** | Inflation breakdown, real wage growth vs CPI, interest rate impacts, rental affordability | [beyond-cpi.md](cost-of-living/beyond-cpi.md) |
 
-### 📊 Government Spending & Debt
-- Core Crown revenue vs expenses
-- Net debt trajectory (pre and post COVID)
-- Per-capita spending comparisons
-- Programme effectiveness audits
+### 🚧 Coming Soon
+
+| Focus Area | Description |
+|------------|-------------|
+| 📊 **Government Spending & Debt** | Core Crown revenue vs expenses, net debt trajectory, per-capita spending comparisons, programme effectiveness audits |
 
 ## Methodology
 
@@ -28,14 +23,16 @@ Every analysis includes:
 1. **Source data** — linked, not screenshots
 2. **Assumptions** — stated explicitly
 3. **Limitations** — acknowledged honestly
-4. **Conclusions** — separated from the data
+4. **Conclusions** — drawn from the data, not from political preference
 
-If I make a claim, I link the source. If the data is ambiguous, I say so. That's the deal.
+I don't care which party is in power. I care whether their numbers add up.
 
-## Why This Exists
+## Sources
 
-Twitter commentary is great for sparking conversation. But 280 characters can't hold a dataset. This repo is where the receipts live — the research behind the takes.
+Primary data from Stats NZ, Treasury, Reserve Bank of NZ, and MBIE. All linked inline within each analysis.
 
----
+## License
 
-*Follow the commentary: [@ZephrBrennan](https://twitter.com/ZephrBrennan)*
+All Rights Reserved — © 2026 Zephr Brennan
+
+This content is proprietary. You may read it for personal/educational purposes, but you may NOT copy, sell, modify, or distribute it without written permission.
