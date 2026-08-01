@@ -54,7 +54,7 @@ That's taxpayer money going to motels — not homes. Every dollar spent on emerg
 |-----------|-------------------|--------|
 | National (2008-2017) | Brightline test introduced (2015, 2-year period) | Minimal — speculative buying continued |
 | Labour (2017-2023) | Brightline extended to 5 & 10 years, foreign buyer ban, KiwiBuild, Kāinga Ora ramp-up | Prices still surged to 2021 peak |
-| National coalition (2023-present) | Brightline back to 2 years, foreign buyer ban reversed, housing accelleration | Prices correcting but affordability still poor |
+| National coalition (2023-present) | Brightline back to 2 years, foreign buyer ban reversed, housing acceleration | Prices correcting but affordability still poor |
 
 **The uncomfortable truth:** Both major parties have failed to meaningfully address supply constraints — the root cause. The RMA reform debate has been going for 30 years.
 
@@ -66,10 +66,10 @@ That's taxpayer money going to motels — not homes. Every dollar spent on emerg
 
 ## Sources
 
-- [Stats NZ — House Price Index](https://www.stats.govt.nz/)
-- [MBIE — Emergency Housing data](https://www.mbie.govt.nz/)
-- [HUD — Social Housing Register](https://www.hud.govt.nz/)
-- [Reserve Bank of NZ — Housing Statistics](https://www.rbnz.govt.nz/)
+- [Stats NZ — House Price Index](https://www.stats.govt.nz/topics/housing)
+- [MBIE — Emergency Housing data](https://www.mbie.govt.nz/building-and-energy/housing-and-urban-development)
+- [HUD — Social Housing Register](https://www.hud.govt.nz/community-and-public-housing/social-housing-register/)
+- [Reserve Bank of NZ — Housing Statistics](https://www.rbnz.govt.nz/statistics/series/real-estate)
 
 ---
 
