@@ -2,7 +2,7 @@
 
 **Author:** Zephr Brennan  
 **Location:** Auckland, New Zealand  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
+**Contact:** [Substack](https://zephrbrennan.substack.com) | [LinkedIn](https://www.linkedin.com/in/zephrbrennan) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
 
 ---
 
@@ -32,7 +32,7 @@ I'm not a policy expert. I'm a citizen who thinks numbers should matter more tha
 ## Methodology
 
 Every analysis includes:
-1. **Source data** — linked, not screenshots
+1. **Source data** — linked to specific datasets, not just homepages
 2. **Assumptions** — stated explicitly
 3. **Limitations** — acknowledged honestly
 4. **Conclusions** — drawn from the data, not from political preference
@@ -43,12 +43,26 @@ I don't care which party is in power. I care whether their numbers add up.
 
 ## Sources
 
-Primary data from Stats NZ, Treasury, Reserve Bank of NZ, and MBIE. All linked inline within each analysis.
+Primary data from:
+- [Stats NZ — Household Income and Housing Costs](https://www.stats.govt.nz/topics/housing)
+- [MBIE — Emergency Housing Data](https://www.mbie.govt.nz/building-and-energy/housing-and-urban-development)
+- [HUD — Social Housing Register](https://www.hud.govt.nz/community-and-public-housing/social-housing-register/)
+- [Reserve Bank of NZ — Housing Statistics](https://www.rbnz.govt.nz/statistics/series/real-estate)
+
+All linked inline within each analysis.
+
+---
+
+## 📬 Writing
+
+I also write about sales and professional growth on Substack.
+
+**Read it here:** [https://zephrbrennan.substack.com](https://zephrbrennan.substack.com)
 
 ---
 
 ## License
 
-All Rights Reserved — © 2026 Zephr Brennan
+Licensed under Creative Commons Attribution 4.0 (CC-BY-4.0). You are free to share and adapt with attribution. See [`LICENSE`](./LICENSE) for full terms.
 
-This content is proprietary. You may read it for personal/educational purposes, but you may NOT copy, sell, modify, or distribute it without written permission.
+*Copyright © 2026 Zephr Brennan*
